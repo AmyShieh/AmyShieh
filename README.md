@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[b站](https://space.bilibili.com/864878)
+
+[CSDN](https://blog.csdn.net/xieamy)
+
 <!--
 **AmyShieh/AmyShieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
