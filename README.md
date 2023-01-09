@@ -2,7 +2,8 @@
 
 You can find me:
 
-[b站](https://space.bilibili.com/864878)
+
+[https://amyshieh.github.io](https://amyshieh.github.io)
 
 <!--
 **AmyShieh/AmyShieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
